@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "serjava-demo",
+  "private_key_id": "1072183a4834167d86f4f9f99c10a916a1313f92",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQDqSbenXXfnxNip\nGaAFGtzvw3kAsdhCdnkn55TEb0sSiBeej7kQcjTHEr3ov8bIeHofoGaFy87PRU8T\nweW8r0GW2YtA6kMePZHwt48E+Y3KYkGnGiIIGS8elpWHF6fhkIAKtHVHu2UNzFgL\nyCo9yK1sv5eM/baQLWo8Dmun+M8XPZ7/rMVzGpnzobNh+VUPHDdD+9n3sgCAxYaT\nLCUoSj/grOONVJ8+iO9+NyYhz54O31A3Ds8Iob0xyy2QarNGOv8valMPAQKVxrdL\neg9j2DVfwCXgzOCrWteGuHvjvi6LjJks2rDGL93qnUQ9dWTeTE+Bhg77Wwb2LpqV\n+qFVSd81AgMBAAECggEAMz2jNq4ZIu4pCrbpiiRJbQD+DnpXF5Yswl8CaQIEU83D\nCLFbYu7vfxiow2ZqNf8vioo80gd0uF1qwaH3OpDEEheLPsvdmRgTOqgS1h40di6O\nOFtdVRMY/KInmu/ADnPZpT25ptIj9GQcX5tMLc4dq/qtTS9SRe9A3Fi1D/w5YtXy\nsFTOdkzyeGmumWZxGIUPyTXwHf/pZonjlrYIXUYRcc3zeVeAQQ6qoRquye8/s4+6\nA0eBJmbdiwxq8tytH6HGabLw1kV6IXB84bezGWaN5Ev5+v3P2vWb2ecTeneM4oB7\nbU5q7Nsp+l/fEwgyHcwZoNVhLp/+vwOM/bn8l3NrMQKBgQD6k2/k+DNHz+KFWxb4\nnFIkDwdk4tqkZukyBTdzX87WBECGKDbxEt4gZ0TFh7VttG7vi/+L+unXyFO6nmj2\nktApgPXurXMn019OURqDcSFtFhT7zXQXefpNCBOaDz56KpG1Xvnu4/hzgqUvRqhW\nLoCal8v7Z3OSET4pqcEEx5AcnQKBgQDvXAVROuBOTVvE9mO5GWMUEXZrq5A99Cuc\nFUNSqbE0aFVfqrxU0I32F3NCRe0duDBSCmEnCFMDcg7eShdiTfkOHIVnQv+gSVF2\nh8DqRneIsvB3VKgUSlitS5LvSXld6ph/vKnXhDdiBSISgEaIAKwKsm5t1+muucQD\nfO3jJbvteQKBgByu7+oX91bLFzUIvlJrIoP6LHCB/2E+XodZTYWpe/XHutMgm1lx\nPXgcGiU6aaxLMT++mNwfNtF6nwsHwyAmoil+F6jgtgPjEE/YvN46/waLto80b4uY\nbOyQdh32jMJTSSan3phYBELEu7/zqKVk4VfQ9Iqsxu/7hVAjnHK9nWOJAoGBAMuJ\ns5fUegL7s0q0vi4bUW4yP0HlnP2h0SejySDU3bQT+G0mcYmp4t3eKQu1DKIWCzjo\nTJ71bCnk5pHN7T6R0XRXenVJurfhQN2LKNfO3jym9OZ0XY0Lf4a1WhgSoZrkL5OH\nqeFzM+ktNkEHRXLHJ4TdIBxV2wfSPcU9ich7QOf5AoGBAO7v0b+SgLmoVA29cuO2\n5jPhLZyxnpk/2cydYjMuWpV0Wmky6J0INrdRFx/gd0osovoKi7fyHYh1mzW9MXFa\nNuone2ihLn4g4/ZMBGa+41S99FJ72TjrblE7wl6cKNaMoBjuxA8oQa95vRUkNsoE\nONvGdanAtZOyttGu5u9NYku7\n-----END PRIVATE KEY-----\n",
+  "client_email": "eco-franca@serjava-demo.iam.gserviceaccount.com",
+  "client_id": "115397835870503581680",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/eco-franca%40serjava-demo.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
